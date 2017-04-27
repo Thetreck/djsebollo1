@@ -1,0 +1,3 @@
+mostrar la base de una aplicacion similar a retrica para un  movil
+
+realizar un piano basico con cinco notas
